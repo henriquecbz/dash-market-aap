@@ -91,7 +91,7 @@ def render_graphs(cities, main_variable):
 
 #============ Server ========#
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
 
 
 
